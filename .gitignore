@@ -1,1 +1,9 @@
+# Ignore everything
+**/*
+
+# Do not ignore files with extensions within folders
+!**/*.*
+!**/
+
+# Ignore windows binary
 *.exe
